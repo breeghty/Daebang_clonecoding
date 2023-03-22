@@ -1,30 +1,31 @@
 # 📌 Daebang 클론코딩
-대방건설 클론코딩
+### 대방건설
 
-<img src="./img/responsive_crew.png" width="600px" height="auto" alt="클루얼라모드 클론코딩">
+<img src="./img/daebang_mockup.png" width="600px" height="auto" alt="대방건설 클론코딩">
 
 ## 💻 Clone Coding 
-**크루즈 승무원들을 위한 의류기업인 크루얼라모드의 클론코딩 사이트입니다.** 깔끔한 디자인과 레이아웃이 특징입니다. 헤더에 스크롤 시 애니메이션을 적용하고 메뉴를 반응형마다 다른 디자인으로 제작하였습니다.
+**1991년에 설립된 대한민국의 건설업체, 대방건설의 클론코딩 웹사이트 입니다.** 지디웹 선정작이며 메인 비주얼 영역의 애니메이션과 깔끔한 레이아웃이 특징인 사이트입니다. 
+slick.js와 scroll.js 라이브러리를 사용했습니다.
 
 <br>
 
 ### 👀 클론코딩 사이트 보기 (Click to View) 
-👉 <https://breeghty.github.io/CrewALaMode_clonecoding/>
+👉 <https://breeghty.github.io/Daebang_clonecoding/>
 
 <br>
 
 ### ✔ 작업일자(Date)
-2022.10.
+2022.11.
 
 <br>
 
 ### ✔ 키워드(Keyword)
 - 클론코딩 100%
-- 웹표준, 웹접근성, 반응형웹
+- 웹표준, 웹접근성
 - HTML, CSS, Javascript, jQuery
-- Splitting.js, scrolla.js video 태그 사용
+- Slick.js, Scrolla.js, Splittin.js, 다양한 CSS 애니메이션 구현, 스크롤 고정 헤더
 
 <br>
 
 ### ✔ 풀페이지(Full page)
-<img src="./img/full_crewalamode.png" width="600px" height="auto" alt="클루얼라모드 클론코딩 풀페이지">
+<img src="./img/full_daebang.png" width="600px" height="auto" alt="대방건설 클론코딩 풀페이지">
